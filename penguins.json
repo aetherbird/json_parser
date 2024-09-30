@@ -1,0 +1,77 @@
+{
+  "penguins": [
+    {
+      "species": "Emperor Penguin",
+      "scientific_name": "Aptenodytes forsteri",
+      "facts": [
+        "The Emperor Penguin is the tallest and heaviest of all penguin species.",
+        "They can dive deeper than any other bird, reaching depths of over 500 meters.",
+        "Emperor Penguins breed during the Antarctic winter, facing extreme cold temperatures."
+      ],
+      "habitat": "Antarctic",
+      "average_height_cm": 115,
+      "average_weight_kg": 40
+    },
+    {
+      "species": "King Penguin",
+      "scientific_name": "Aptenodytes patagonicus",
+      "facts": [
+        "King Penguins are the second largest penguin species, after the Emperor Penguin.",
+        "They primarily feed on fish and squid.",
+        "King Penguins have a longer breeding cycle than most penguin species, taking about 14 to 16 months to raise a chick."
+      ],
+      "habitat": "Sub-Antarctic islands",
+      "average_height_cm": 90,
+      "average_weight_kg": 16
+    },
+    {
+      "species": "Adelie Penguin",
+      "scientific_name": "Pygoscelis adeliae",
+      "facts": [
+        "Adelie Penguins are one of the most widespread penguin species in the Antarctic.",
+        "They build nests out of stones and are known to 'steal' rocks from neighboring nests.",
+        "Adelie Penguins are excellent swimmers, reaching speeds of up to 15 km/h."
+      ],
+      "habitat": "Antarctic",
+      "average_height_cm": 70,
+      "average_weight_kg": 5
+    },
+    {
+      "species": "Gentoo Penguin",
+      "scientific_name": "Pygoscelis papua",
+      "facts": [
+        "Gentoo Penguins are the fastest swimmers among all penguin species, reaching speeds of up to 36 km/h.",
+        "They have bright orange-red bills and distinctive white patches above their eyes.",
+        "Gentoo Penguins can dive to depths of 200 meters in search of food."
+      ],
+      "habitat": "Sub-Antarctic islands",
+      "average_height_cm": 80,
+      "average_weight_kg": 5.5
+    },
+    {
+      "species": "Chinstrap Penguin",
+      "scientific_name": "Pygoscelis antarcticus",
+      "facts": [
+        "Chinstrap Penguins are named after the thin black line that runs under their head, resembling a chinstrap.",
+        "They are one of the most aggressive penguin species, often involved in territorial disputes.",
+        "Chinstrap Penguins prefer rocky coastlines for nesting."
+      ],
+      "habitat": "Antarctic and sub-Antarctic regions",
+      "average_height_cm": 68,
+      "average_weight_kg": 4.5
+    },
+    {
+      "species": "Little Penguin",
+      "scientific_name": "Eudyptula minor",
+      "facts": [
+        "The Little Penguin is the smallest penguin species, also known as the Fairy Penguin.",
+        "They are native to Australia and New Zealand.",
+        "Little Penguins are nocturnal, spending their days at sea and returning to land at dusk."
+      ],
+      "habitat": "Southern Australia and New Zealand",
+      "average_height_cm": 33,
+      "average_weight_kg": 1.5
+    }
+  ]
+}
+
